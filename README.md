@@ -13,3 +13,6 @@ This project was created to practice basic Git commands.
 ## Author
 
 Rohith
+## Update
+
+This README was updated to complete the Git assignment.
