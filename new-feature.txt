@@ -1,0 +1,6 @@
+This file was added in the feature/new-feature branch.
+
+It demonstrates creating a new file and committing it from a separate branch before merging into the main branch.
+## Project Status
+
+This project demonstrates basic Git operations.
